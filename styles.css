@@ -153,11 +153,11 @@ h3 {
     font-weight: bold;
     font-style: italic;
     text-decoration: none;
-    color: #EADBC8;
+    color: #0F2C59;
 }
 
 .text-container > p > a:hover {
-    color: #EADBC8;
+    color: #DAC0A3;
 }
 
 .contact-container {
